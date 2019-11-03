@@ -22,7 +22,6 @@ long long int reverse(long long int n) {
 int main(void) {
   long long int n;
   long long int result;
-  _Bool prime;
 
   printf("Enter an integer\n");
   scanf("%lli", &n);
