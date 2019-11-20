@@ -8,7 +8,7 @@ def roll_dice():
 
 
 def roll_two_die():
-    return randint(1, 6) + randint(1, 6)
+    return roll_dice() + roll_dice()
 
 
 def check_guess(guess):
