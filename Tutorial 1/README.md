@@ -14,7 +14,7 @@ Implement this game in Python keeping in my mind conditional structures and loop
 <ul>
   <li /><code>dice.py</code> - Answer to the dice problem
   <li /><code>lucky-seven.py</code> - Answer to the Lucky Seven game problem
-  <li /><code>reverse.c</code> and <code>reverse.py</code> - Comparisson of the same program in C and Python (just a good reference for the expressive power of Python 3)
+  <li /><code>reverse.c</code> and <code>reverse.py</code> - Comparison of the same program in C and Python (just a good reference for the expressive power of Python 3)
 </ul>
 
 #### Slides: <a href="https://docs.google.com/presentation/d/1DbV9NmtcKBRT30kpdzWZrKGB1QX4PMCo4K4mOh4eoCc/edit#slide=id.g755472fed8_3_0">here</a>
