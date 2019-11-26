@@ -5,10 +5,10 @@
 Write a program that asks the user for an input / guess (any integer between 1 and 6 inclusive). Next, roll a dice number (any number between 1 and 6 inclusive). Print “Yes” if the input is the same as the dice number, and “No” otherwise
 
 ### The Lucky Seven game:
-Write a program that implements the Lucky Seven game. In Lucky Seven, the user is asked to guess whether the sum of two die will be **under 7**, **over 7**, or **exactly 7**.
+Write a program that implements the Lucky Seven game. In Lucky Seven, the user is asked to guess whether the sum of two dice will be **under 7**, **over 7**, or **exactly 7**.
 **If** the user guesses correctly **and** the number is either **over 7** or **under 7**, he/she doubles her money. **Else if** the user guesses correctly **and** the number is **exactly 7**, the user triples her money.
-In any other scenario, i.e. the guess is incorrect, the user loses his/her money. 
-Implement this game in Python keeping in my mind conditional structures and loops we discusses at the tutorial. 
+In any other scenario, i.e. the guess is incorrect, the user loses his/her money.
+Implement this game in Python keeping in my mind conditional structures and loops we discusses at the tutorial.
 
 ### Resources
 <ul>

@@ -7,7 +7,7 @@ def roll_dice():
     return randint(1, 6)
 
 
-def roll_two_die():
+def roll_two_dice():
     return roll_dice() + roll_dice()
 
 
