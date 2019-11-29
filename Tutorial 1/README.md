@@ -2,7 +2,7 @@
 
 ### The dice problem:
 
-Write a program that asks the user for an input / guess (any integer between 1 and 6 inclusive). Next, roll a dice number (any number between 1 and 6 inclusive). Print “Yes” if the input is the same as the dice number, and “No” otherwise
+Write a program that asks the user for an input/guess (any integer between 1 and 6 inclusive). Next, roll a dice number (any number between 1 and 6 inclusive). Print “Yes” if the input is the same as the dice number, and “No” otherwise
 
 ### The Lucky Seven game:
 Write a program that implements the Lucky Seven game. In Lucky Seven, the user is asked to guess whether the sum of two dice will be **under 7**, **over 7**, or **exactly 7**.
