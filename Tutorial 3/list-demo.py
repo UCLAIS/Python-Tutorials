@@ -35,18 +35,3 @@ class ShoppingList(object):
     def sort_list(self) -> None:
         self.shopping_list.sort()
         self.print_list()
-
-
-if __name__ == "__main__":
-    shopping_list = ShoppingList()
-    shopping_list.add("Apples")
-    shopping_list.add("12 Bananas")
-    shopping_list.add("12 Eggs")
-    shopping_list.add("Jaffa Cakes")
-    shopping_list.add("Dorritos")
-    shopping_list.print_list()
-    shopping_list.delete(1)
-    shopping_list.print_list()
-    shopping_list.update("6 Eggs", 1)
-    shopping_list.print_list()
-    shopping_list.sort_list()

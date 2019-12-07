@@ -50,14 +50,3 @@ class Employees(object):
         for employee in self.employees_information:
             print(str(index) + ". " + str(employee["name"]))
             index += 1
-
-
-if __name__ == "__main__":
-    employees = Employees()
-    employees.add(1, "Boris", 55)
-    employees.add(2, "Jeremy", 65)
-    employees.add(3, "Trump", 73)
-    employees.add(4, "Biden", 77)
-    employees.print_names()
-    employees.update_age(73)
-    employees.print_information()
